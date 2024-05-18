@@ -8,7 +8,7 @@ function App() {
       <div className="container">
         <div className="weather-app-wrapper">
           <div className="weather-app rounded-4">
-            <SearchForm defaultCity="sao paulo" />
+            <SearchForm defaultCity="Dhaka" />
           </div>
           <footer>
             Open-source code by Sanjit on {""}

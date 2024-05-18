@@ -2,7 +2,6 @@ import "./SearchForm.css";
 import axios from "axios";
 import WeatherInfo from "./WeatherInfo";
 import WeatherForecast from "./WeatherForecast";
-
 import { useState } from "react";
 
 function SearchForm(props) {
